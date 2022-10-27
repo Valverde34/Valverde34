@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Valverde34
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning computers enginnering
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me diogovalverde34@ua.pt
 
