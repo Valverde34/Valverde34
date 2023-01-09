@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Valverde34
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me diogovalverde34@ua.pt
+- 👋 Hi, I’m Diogo Valverde.
+- 👀 I’m interested in technology.
+- 🌱 I’m currently studying Computer and Software Engineering.
+- 📫 How to reach me diogovalverde@ua.pt 
 
 <!---
 Valverde34/Valverde34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
