@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Diogo Valverde
-- 👀 I’m interested in technology
 - 🎓 I'm currently studying Computer and Informatics Engineering 
 - 📫 How to reach me diogovalverde@ua.pt 
 
