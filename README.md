@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diogo Valverde
-- 🎓 I'm currently studying Computer and Informatics Engineering 
+- 🎓 I'm currently studying Computer and Software Engineering 
 - 📫 How to reach me diogovalverde@ua.pt 
 
 
