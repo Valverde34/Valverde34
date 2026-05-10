@@ -25,5 +25,5 @@ I am interested in computer networks, systems, cybersecurity, backend developmen
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.hackclub.dev/api?username=Valverde34&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.hackclub.dev/api/top-langs/?username=Valverde34&layout=compact&hide_border=true)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Valverde34&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Valverde34)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Valverde34&layout=compact&hide_border=true)](https://github.com/Valverde34)
